@@ -1,0 +1,50 @@
+from django.conf import settings
+from django.shortcuts import redirect
+from django.urls import reverse
+from django.views import View
+from django.http import JsonResponse
+from google_auth_oauthlib.flow import InstalledAppFlow
+from googleapiclient.discovery import build
+import json
+
+SCOPE = ['https://www.googleapis.com/auth/calendar.events.readonly']
+
+
+class GoogleCalendarInitView(View):
+    def get(self, request):
+        global cred
+        flow = InstalledAppFlow.from_client_secrets_file(
+            settings.GOOGLE_OAUTH_CLIENT_SECRET,
+            scopes=SCOPE,
+            redirect_uri=request.build_absolute_uri(
+                reverse('google_calendar_redirect'))
+        )
+        authorization_url, state = flow.authorization_url(
+            access_type='offline',
+        )
+        request.session['google_auth_state'] = state
+        print(authorization_url)
+        return redirect(authorization_url)
+
+
+class GoogleCalendarRedirectView(View):
+    def get(self, request):
+        global cred
+        state = request.session.pop('google_auth_state', None)
+        flow = InstalledAppFlow.from_client_secrets_file(
+            settings.GOOGLE_OAUTH_CLIENT_SECRET,
+            scopes=SCOPE,
+            redirect_uri=request.build_absolute_uri(
+                reverse('google_calendar_redirect'))
+            # state=state,
+        )
+        flow.fetch_token(
+            authorization_response=request.build_absolute_uri(),
+            state=state)
+        print(request.build_absolute_uri().split('?'))
+        credentials = flow.credentials
+        request.session['google_access_token'] = credentials.token
+        service = build('calendar', 'v3', credentials=credentials)
+        events = service.events().list(calendarId='primary').execute()
+        events_json = json.dumps(events, indent=4)
+        return JsonResponse(events_json, safe=False)

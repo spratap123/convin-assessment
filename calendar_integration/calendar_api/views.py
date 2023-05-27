@@ -1,0 +1,60 @@
+from django.conf import settings
+from django.shortcuts import redirect
+from django.urls import reverse
+from django.views import View
+from google.auth.transport.requests import Request
+from django.http import JsonResponse
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google_auth_oauthlib.flow import Flow
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
+import json
+import os
+
+SCOPE = ['https://www.googleapis.com/auth/calendar.events.readonly']
+
+
+class GoogleCalendarInitView(View):
+    def get(self, request):
+        creds_json = request.session.get('credentials')
+        creds = None
+
+        if creds_json:
+            print(creds_json)
+            creds = Credentials.from_authorized_user_info(
+                json.loads(creds_json))
+        # if os.path.exists('token.json'):
+            # creds = Credentials.from_authorized_user_file('token.json', SCOPE)
+        print(creds.valid)
+        if not creds or not creds.valid:
+            if creds and creds.expired and creds.refresh_token:
+                creds.refresh(Request())
+            else:
+                flow = InstalledAppFlow.from_client_secrets_file(
+                    settings.GOOGLE_OAUTH_CLIENT_SECRET,
+                    scopes=SCOPE,
+                    redirect_uri=request.build_absolute_uri(
+                        reverse('google_calendar_redirect'))
+                )
+                creds = flow.run_local_server()
+        request.session['credentials'] = creds.to_json()
+        return redirect('google_calendar_redirect')
+
+
+class GoogleCalendarRedirectView(View):
+    def get(self, request):
+        creds_json = request.session.get('credentials')
+        if not creds_json:
+            return redirect('google-calendar-init')
+        creds = Credentials.from_authorized_user_info(
+            json.loads(creds_json))
+
+        # creds = Credentials.from_authorized_user_file('token.json', SCOPE)
+        try:
+            service = build('calendar', 'v3', credentials=creds)
+            events = service.events().list(calendarId='primary').execute()
+            events_json = json.dumps(events, indent=4)
+            return JsonResponse(events_json, safe=False)
+        except HttpError as err:
+            return JsonResponse({"error": str(err)})
