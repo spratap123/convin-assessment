@@ -76,4 +76,6 @@ The code contains two functions, GoogleCalendarInitView and GoogleCalendarRedire
 * **GoogleCalendarRedirectView**: Handles the authentication redirect from Google. It retrieves the user's credentials, validates them, and uses them to access the Google Calendar API. It then retrieves the user's calendar events and returns them in the response.
 
 ## Working
-[![](ss1.png)](usage.mp4)
+![](ss1.png)
+https://github.com/ayushjaipuriyar/convin-assessment/assets/66643292/554dcbf9-374e-4df7-a465-c81dbacd9846
+
