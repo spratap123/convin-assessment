@@ -6,6 +6,7 @@ from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import Flow
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
+from django.urls import reverse
 import os
 import json
 
@@ -15,6 +16,9 @@ os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
 SCOPE = ['https://www.googleapis.com/auth/calendar.readonly']
 REDIRECT_URL = 'https://localhost:8000/rest/v1/calendar/redirect/'
 
+def home(request):
+    login_url = reverse('google_calendar_init')  # Assuming you have a URL pattern named 'google-login' for Google login
+    return redirect(login_url)
 
 @api_view(['GET'])
 def GoogleCalendarInitView(request):
