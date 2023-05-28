@@ -74,3 +74,6 @@ The code contains two functions, GoogleCalendarInitView and GoogleCalendarRedire
 * **GoogleCalendarInitView**: Initializes the Google authentication process. If the user's credentials are already stored in the session, it redirects to the redirect endpoint. Otherwise, it generates the authorization URL and stores the state parameter in the session.
 
 * **GoogleCalendarRedirectView**: Handles the authentication redirect from Google. It retrieves the user's credentials, validates them, and uses them to access the Google Calendar API. It then retrieves the user's calendar events and returns them in the response.
+
+## Working
+[![](ss1.png)](usage.mp4)
