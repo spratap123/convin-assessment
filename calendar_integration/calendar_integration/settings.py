@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'calendar_api',
     'corsheaders',
     'sslserver',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
