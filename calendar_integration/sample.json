@@ -1,7 +1,7 @@
 {
   "kind": "calendar#events",
   "etag": "\"p32sd30eaja8vu0g\"",
-  "summary": "ayushjaipuriyar21@gmail.com",
+  "summary": "thakurspratap123@gmail.com",
   "updated": "2023-05-25T19:31:03.843Z",
   "timeZone": "Asia/Kolkata",
   "accessRole": "owner",
@@ -17,8 +17,8 @@
       "created": "2020-08-26T18:59:57.000Z",
       "updated": "2020-08-26T18:59:58.019Z",
       "summary": "Naman's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-04-02" },
       "end": { "date": "2020-04-03" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -40,8 +40,8 @@
       "created": "2020-08-26T19:03:10.000Z",
       "updated": "2020-08-26T19:03:10.972Z",
       "summary": "Ashwin's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-06-03" },
       "end": { "date": "2020-06-04" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -63,8 +63,8 @@
       "created": "2020-08-26T19:03:34.000Z",
       "updated": "2020-08-26T19:03:34.532Z",
       "summary": "Sudhanshu's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-06-09" },
       "end": { "date": "2020-06-10" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -87,8 +87,8 @@
       "updated": "2020-10-08T16:44:32.287Z",
       "summary": "Google Dev",
       "colorId": "2",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2020-10-16T15:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2020-10-16T20:55:00+05:30", "timeZone": "UTC" },
       "iCalUID": "3gmbptlna68g02rruedo8194qf@google.com",
@@ -106,8 +106,8 @@
       "updated": "2020-10-08T16:44:51.167Z",
       "summary": "Google Dev",
       "colorId": "2",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2020-10-17T16:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2020-10-17T20:55:00+05:30", "timeZone": "UTC" },
       "iCalUID": "6lcpi05tge1otljja5gk4rg4i8@google.com",
@@ -125,8 +125,8 @@
       "updated": "2020-10-08T16:44:57.467Z",
       "summary": "Google Dev",
       "colorId": "2",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2020-10-18T16:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2020-10-18T20:55:00+05:30", "timeZone": "UTC" },
       "iCalUID": "57lada2rbeqr9ul8dsul16nnuf@google.com",
@@ -145,8 +145,8 @@
       "summary": "GoToWebinar - Tips for Contributing to Open Source With GitHub",
       "description": "1. Click and join at the specified time and date:<br />https://global.gotowebinar.com/join/2608386137919483405/250609347 https://global.gotowebinar.com/join/2608386137919483405/250609347 <br />Note: This link should not be shared with others it is unique to you.<br /><br />2. More webinar details:<br />https://attendee.gotowebinar.com/additionalInfo.tmpl?duplicate=false&webinar=2608386137919483405&aregistrantConfirmation=5356199836290638092 https://attendee.gotowebinar.com/additionalInfo.tmpl?duplicate=false&webinar=2608386137919483405&aregistrantConfirmation=5356199836290638092",
       "location": "GoToWebinar",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-10-13T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -171,8 +171,8 @@
       "summary": "HackNight - MUJ ACM Virtual Hacktoberfest Meetup",
       "description": "See event: https://organize.mlh.io/participants/events/5972-hacknight-muj-acm-virtual-hacktoberfest-meetup",
       "colorId": "2",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-10-27T22:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -197,8 +197,8 @@
       "summary": "Keynote \u2014 Yancy Spruill, CEO of DigitalOcean",
       "description": "There has never been a better time to be a developer. Cloud has democratized computing and has also played a huge role even during the pandemic to keep industries and entire economies afloat. Yancey Spruill demonstrates the effect DigitalOcean has on inspiring new apps, startups and process optimizations, as well as its commitment to serving developers of all kinds. Access the session here: do.co/deploy.",
       "location": "Online",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-11-10T20:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -226,8 +226,8 @@
       "summary": "\"Build Apps Faster With App Platform\" \u2014 Jake Levirne",
       "description": "Come learn about the breadth and depth of DigitalOcean cloud across IaaS, cloud native, and PaaS. See why we build what we build, with a laser focus on developer experience and simplicity. Plus, get a sneak peek at what's next on the DigitalOcean product roadmap. Access the session here: do.co/deploy.",
       "location": "do.co/deploy",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2020-11-10T23:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2020-11-11T00:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "1q9pk3s0p03tigihj0gr5d7ds9@google.com",
@@ -246,8 +246,8 @@
       "summary": "\"Doing This Cloud Thing Right - a Lap Around DigitalOcean Products\" \u2014 Apurva Joshi",
       "description": "Come learn about the breadth and depth of DigitalOcean cloud across IaaS, cloud native, and PaaS. See why we build what we build, with a laser focus on developer experience and simplicity. Plus, get a sneak peek at what's next on the DigitalOcean product roadmap. Access the session here: do.co/deploy.",
       "location": "do.co/deploy",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2020-11-11T11:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2020-11-11T11:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "5ejng3sro4hfrqpidoi6e6v4bt@google.com",
@@ -265,8 +265,8 @@
       "updated": "2020-10-30T08:11:01.409Z",
       "summary": "Innerve Programmer's League",
       "location": "Online, Codezen",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-10-30T18:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -291,8 +291,8 @@
       "summary": "GitHub Universe 2020: Opening Keynote",
       "description": "GitHub Universe 2020: Opening Keynote\n\nNat Friedman\nChief Executive Officer\n\nJoin us for the GitHub Universe 2020 Opening Keynote. Be sure to tune in for all 3 days as we bring together developers, maintainers, and industry leaders to discuss the future of software development.\n\nhttps://githubuniverse.com/",
       "location": "https://githubuniverse.com/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-12-09T09:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -317,8 +317,8 @@
       "summary": "GitHub Universe 2020: Developer Channel - Day 2",
       "description": "GitHub Universe 2020: Day 2 - DevOps\n\nJoin us for Day 2 of GitHub Universe 2020 as we explore DevOps. Join us as we discuss how you can build, test, and deploy faster to any platform or cloud, and how to automate any workflow directly from GitHub.\n\nhttps://githubuniverse.com/developers/apac",
       "location": "https://githubuniverse.com/developers/apac",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-12-10T09:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -343,8 +343,8 @@
       "summary": "GitHub Universe 2020: Developer Channel - Day 3",
       "description": "GitHub Universe 2020: Day 3 - Open Source Communities\n\nJoin us for Day 3 of GitHub Universe 2020 as we celebrate open source communities. Hear the latest in open source and learn what GitHub is doing to help projects (and maintainers) thrive.\n\nhttps://githubuniverse.com/developers/apac",
       "location": "https://githubuniverse.com/developers/apac",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-12-11T09:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -369,8 +369,8 @@
       "summary": "GitHub Universe 2020: Opening Keynote",
       "description": "GitHub Universe 2020: Opening Keynote\n\nNat Friedman\nChief Executive Officer\n\nJoin us for the GitHub Universe 2020 Opening Keynote. Be sure to tune in for all 3 days as we bring together developers, maintainers, and industry leaders to discuss the future of software development.\n\nhttps://githubuniverse.com/",
       "location": "https://githubuniverse.com/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-12-09T09:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -395,8 +395,8 @@
       "summary": "A Week of Algorithms !",
       "description": "Developer Student Clubs is a Google Developers program for University students, designed to help them learn mobile and web development skills. A DSC can take many forms - from people interested in Google's developer technology to large gatherings with demos, workshops, and tech talks, to code sprints and hackathons.\n\nVirtual event URL: https://dsc.community.dev/j/8f9995znkmxn7/",
       "location": "https://dsc.community.dev/j/8f9995znkmxn7/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-11-21T20:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -421,8 +421,8 @@
       "summary": "Freshmen Induction at Manipal University, Jaipur",
       "description": "<p class=\"MsoNormal\">Give your career a head-start and know how you can get closer to your dream job by refining your coding skills. Just for you exclusively, we've got \"Freshmen Induction\", an exclusive webinar by our co-founder <strong style=\"mso-bidi-font-weight: normal;\">Mr. Ankush Singla</strong>, who will give you major insights that can shape your programming career.</p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\">FRESHMEN INDUCTION SCHEDULE</strong></p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\">College:</strong> Manipal University,Jaipur</p>\n<p class=\"MsoNormal\"><strong style=\"mso-bidi-font-weight: normal;\">Faculty Instructor:</strong><span style=\"mso-spacerun: yes;\">&nbsp;&nbsp; </span>Mr. Ankush Singla</p>\n...",
       "location": "Online Webinar",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2020-11-25T18:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2020-11-25T20:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "3nf8tk9hbb8i38p8t9rpaudv8e@google.com",
@@ -441,8 +441,8 @@
       "summary": "Blah",
       "description": "First date,First kiss",
       "colorId": "8",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2019-12-01" },
       "end": { "date": "2019-12-02" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -463,8 +463,8 @@
       "summary": "Blah",
       "description": "Partial second date",
       "colorId": "8",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2019-12-15" },
       "end": { "date": "2019-12-16" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -485,8 +485,8 @@
       "summary": "Android Study Jam 2",
       "description": "Developer Student Clubs is a Google Developers program for University students, designed to help them learn mobile and web development skills. A DSC can take many forms - from people interested in Google's developer technology to large gatherings with demos, workshops, and tech talks, to code sprints and hackathons.\n\nVirtual event URL: https://dsc.community.dev/j/e4kshnb7kf9z6/",
       "location": "https://dsc.community.dev/j/e4kshnb7kf9z6/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2020-12-22T19:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -511,8 +511,8 @@
       "summary": "Blah",
       "description": "Breakup",
       "colorId": "8",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-09-09" },
       "end": { "date": "2020-09-10" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -532,8 +532,8 @@
       "updated": "2021-01-09T05:54:17.740Z",
       "summary": "Local Hack Day: Build",
       "description": "See event: http://organize.mlh.io/participants/events/6072-local-hack-day-build",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-01-11T00:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-01-18T22:30:00+05:30", "timeZone": "UTC" },
       "visibility": "private",
@@ -552,8 +552,8 @@
       "updated": "2021-01-10T04:52:07.265Z",
       "summary": "LHD: Build - !Light - Recreate LHD: Build Site",
       "description": "See event: http://organize.mlh.io/participants/events/6323-lhd-build-light-recreate-lhd-build-site",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-01-11T18:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-01-11T19:00:00+05:30", "timeZone": "UTC" },
       "visibility": "private",
@@ -575,8 +575,8 @@
       "updated": "2021-01-10T04:52:20.117Z",
       "summary": "LHD: Build - !Light in Your Kitchen",
       "description": "See event: http://organize.mlh.io/participants/events/6325-lhd-build-light-in-your-kitchen",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-13T01:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -603,8 +603,8 @@
       "updated": "2021-01-10T04:52:24.812Z",
       "summary": "LHD: Build - !Light in your Kitchen",
       "description": "See event: http://organize.mlh.io/participants/events/6328-lhd-build-light-in-your-kitchen",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-13T12:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -631,8 +631,8 @@
       "updated": "2021-01-10T04:52:27.715Z",
       "summary": "LHD: Build - !Light Recreate LHD: Build Site",
       "description": "See event: http://organize.mlh.io/participants/events/6335-lhd-build-light-recreate-lhd-build-site",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-11T06:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -659,8 +659,8 @@
       "updated": "2021-01-10T04:52:30.465Z",
       "summary": "LHD: Build - A Project to Achieve Your New Year's Resolution",
       "description": "See event: http://organize.mlh.io/participants/events/6341-lhd-build-a-project-to-achieve-your-new-year-s-resolution",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T07:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -687,8 +687,8 @@
       "updated": "2021-01-10T04:52:39.907Z",
       "summary": "LHD: Build - Automate a Daily Task",
       "description": "See event: http://organize.mlh.io/participants/events/6337-lhd-build-automate-a-daily-task",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-12T01:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -715,8 +715,8 @@
       "updated": "2021-01-10T04:52:44.974Z",
       "summary": "LHD: Build - Basics of Blockchain with Horizen",
       "description": "See event: http://organize.mlh.io/participants/events/6301-lhd-build-basics-of-blockchain-with-horizen",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-13T02:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -743,8 +743,8 @@
       "updated": "2021-01-10T04:52:49.819Z",
       "summary": "LHD: Build - Build a Tic-Tac-Toe Game",
       "description": "See event: http://organize.mlh.io/participants/events/6338-lhd-build-build-a-tic-tac-toe-game",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-12T13:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -771,8 +771,8 @@
       "updated": "2021-01-10T04:52:53.840Z",
       "summary": "LHD: Build - Build and Deploy Your First Website",
       "description": "See event: http://organize.mlh.io/participants/events/6300-lhd-build-build-and-deploy-your-first-website",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-12T06:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -799,8 +799,8 @@
       "updated": "2021-01-10T04:52:56.419Z",
       "summary": "LHD: Build - Build and Depoy a Full Stack Web App with AWS",
       "description": "See event: http://organize.mlh.io/participants/events/6299-lhd-build-build-and-depoy-a-full-stack-web-app-with-aws",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-11T23:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -827,8 +827,8 @@
       "updated": "2021-01-10T04:53:02.044Z",
       "summary": "LHD: Build - Build with a Starter Pack",
       "description": "See event: http://organize.mlh.io/participants/events/6334-lhd-build-build-with-a-starter-pack",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-11T04:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -855,8 +855,8 @@
       "updated": "2021-01-10T04:53:04.644Z",
       "summary": "LHD: Build - Capital One Intro to Python Pt 1",
       "description": "See event: http://organize.mlh.io/participants/events/6303-lhd-build-capital-one-intro-to-python-pt-1",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-13T23:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -883,8 +883,8 @@
       "updated": "2021-01-10T04:53:07.234Z",
       "summary": "LHD: Build - Capital One Intro to Python Pt 2",
       "description": "See event: http://organize.mlh.io/participants/events/6307-lhd-build-capital-one-intro-to-python-pt-2",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-15T19:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -911,8 +911,8 @@
       "updated": "2021-01-10T04:53:09.720Z",
       "summary": "LHD: Build - Capital One Intro to Python Pt 3",
       "description": "See event: http://organize.mlh.io/participants/events/6308-lhd-build-capital-one-intro-to-python-pt-3",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-15T23:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -939,8 +939,8 @@
       "updated": "2021-01-10T04:53:12.323Z",
       "summary": "LHD: Build - Chrome Dinosaur Game Challenge",
       "description": "See event: http://organize.mlh.io/participants/events/6324-lhd-build-chrome-dinosaur-game-challenge",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-12T12:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -967,8 +967,8 @@
       "updated": "2021-01-10T04:53:14.982Z",
       "summary": "LHD: Build - Chrome Dinosaur Game Challenge",
       "description": "See event: http://organize.mlh.io/participants/events/6330-lhd-build-chrome-dinosaur-game-challenge",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-12T04:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -995,8 +995,8 @@
       "updated": "2021-01-10T04:53:17.728Z",
       "summary": "LHD: Build - Chrome Dinosaur Game Challenge",
       "description": "See event: http://organize.mlh.io/participants/events/6324-lhd-build-chrome-dinosaur-game-challenge",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-12T12:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1023,8 +1023,8 @@
       "updated": "2021-01-10T04:53:22.490Z",
       "summary": "LHD: Build - Connect Two APIs Together ",
       "description": "See event: http://organize.mlh.io/participants/events/6345-lhd-build-connect-two-apis-together",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-16T01:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1051,8 +1051,8 @@
       "updated": "2021-01-10T04:53:25.346Z",
       "summary": "LHD: Build - Cup Stacking",
       "description": "See event: http://organize.mlh.io/participants/events/6332-lhd-build-cup-stacking",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-15T01:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1079,8 +1079,8 @@
       "updated": "2021-01-10T04:53:28.327Z",
       "summary": "LHD: Build - Design an Outfit for Ellie",
       "description": "See event: http://organize.mlh.io/participants/events/6329-lhd-build-design-an-outfit-for-ellie",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T01:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1107,8 +1107,8 @@
       "updated": "2021-01-10T04:53:36.733Z",
       "summary": "LHD: Build - Design an Outfit for Ellie",
       "description": "See event: http://organize.mlh.io/participants/events/6331-lhd-build-design-an-outfit-for-ellie",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T12:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1135,8 +1135,8 @@
       "updated": "2021-01-10T04:53:39.398Z",
       "summary": "LHD: Build - Explore a Buzzword Topic",
       "description": "See event: http://organize.mlh.io/participants/events/6342-lhd-build-explore-a-buzzword-topic",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T13:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1163,8 +1163,8 @@
       "updated": "2021-01-10T04:53:41.797Z",
       "summary": "LHD: Build - Follow Any Tutorial to Build Something New",
       "description": "See event: http://organize.mlh.io/participants/events/6343-lhd-build-follow-any-tutorial-to-build-something-new",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T23:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1191,8 +1191,8 @@
       "updated": "2021-01-10T04:53:44.102Z",
       "summary": "LHD: Build - Hack the Technical Interview: Algorithms Practice",
       "description": "See event: http://organize.mlh.io/participants/events/6306-lhd-build-hack-the-technical-interview-algorithms-practice",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-15T07:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1219,8 +1219,8 @@
       "updated": "2021-01-10T04:53:49.154Z",
       "summary": "LHD: Build - Hello, World in a New Language",
       "description": "See event: http://organize.mlh.io/participants/events/6336-lhd-build-hello-world-in-a-new-language",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-11T20:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1247,8 +1247,8 @@
       "updated": "2021-01-10T04:53:51.547Z",
       "summary": "LHD: Build - How to Collaborate on Code Projects with GitHub",
       "description": "See event: http://organize.mlh.io/participants/events/6302-lhd-build-how-to-collaborate-on-code-projects-with-github",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-13T06:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1275,8 +1275,8 @@
       "updated": "2021-01-10T04:53:54.478Z",
       "summary": "LHD: Build - Intro to Blockchain - Learning how to SCORE on ICON",
       "description": "See event: http://organize.mlh.io/participants/events/6305-lhd-build-intro-to-blockchain-learning-how-to-score-on-icon",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-15T05:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1303,8 +1303,8 @@
       "updated": "2021-01-10T04:53:56.870Z",
       "summary": "LHD: Build - Jack's \"Improptu\" Draw a Blahaj Event",
       "description": "See event: http://organize.mlh.io/participants/events/6346-lhd-build-jack-s-improptu-draw-a-blahaj-event",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T05:15:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1331,8 +1331,8 @@
       "updated": "2021-01-10T04:53:59.089Z",
       "summary": "LHD: Build - MS Paint Bob Ross",
       "description": "See event: http://organize.mlh.io/participants/events/6326-lhd-build-ms-paint-bob-ross",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T12:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1359,8 +1359,8 @@
       "updated": "2021-01-10T04:54:01.602Z",
       "summary": "LHD: Build - MS Paint Bob Ross",
       "description": "See event: http://organize.mlh.io/participants/events/6327-lhd-build-ms-paint-bob-ross",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T04:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1387,8 +1387,8 @@
       "updated": "2021-01-10T04:54:08.018Z",
       "summary": "LHD: Build - Redesign Your Favorite Website",
       "description": "See event: http://organize.mlh.io/participants/events/6339-lhd-build-redesign-your-favorite-website",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-12T23:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1415,8 +1415,8 @@
       "updated": "2021-01-10T04:54:10.545Z",
       "summary": "LHD: Build - Write Code to Sort a List",
       "description": "See event: http://organize.mlh.io/participants/events/6340-lhd-build-write-code-to-sort-a-list",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-13T13:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1443,8 +1443,8 @@
       "updated": "2021-01-10T04:54:13.240Z",
       "summary": "LHD: Build - z/OS Mainframe APIs: We're Always Online",
       "description": "See event: http://organize.mlh.io/participants/events/6304-lhd-build-z-os-mainframe-apis-we-re-always-online",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-14T05:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1471,8 +1471,8 @@
       "updated": "2021-01-10T05:11:50.520Z",
       "summary": "Local Hack Day: Build submission deadline",
       "description": "https://lhd-build.devpost.com/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-01-18T22:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-01-18T22:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "6m1sfqto4fr4bdh14ns4r5v7mk@google.com",
@@ -1490,8 +1490,8 @@
       "updated": "2021-01-11T03:34:13.296Z",
       "summary": "Local Hack Day: Build Day 1  submission deadline",
       "description": "https://lhd-build-day-one.devpost.com/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-01-11T22:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-01-11T22:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "4uh184hhqok2ujbgbhd2p4c738@google.com",
@@ -1508,8 +1508,8 @@
       "created": "2021-01-13T12:00:03.000Z",
       "updated": "2021-01-13T12:00:03.146Z",
       "summary": "Sayuj's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2021-01-13" },
       "end": { "date": "2021-01-14" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -1530,8 +1530,8 @@
       "summary": "2021 Solution Challenge Kick Off",
       "description": "Please join us for the 2021 Solution Challenge Kick off event hosted by Googlers and UNICEF! We will be sharing information on how to prepare and get started on this competition.\n\n[Important] If you haven't already done so, please register for the Solution Challenge as soon as possible at https://goo.gle/solutionchallenge\n\nVirtual event URL: https://dsc.community.dev/j/4u7k2642mc3at/",
       "location": "https://dsc.community.dev/j/4u7k2642mc3at/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-01-20T21:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-01-20T22:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "0g7jst2ukt916e19ti60hnm0qp@google.com",
@@ -1550,8 +1550,8 @@
       "summary": "Taking a Solution Challenge project from idea to launch",
       "description": "As you are forming teams and brainstorming, be sure to join this event where Googlers and Google Developer Experts will teach you how you can launch your solution idea.\n\n[Important] If you haven't already done so, please register for the Solution Challenge as soon as possible at https://goo.gle/solutionchallenge\n\n\nVirtual event URL: https://dsc.community.dev/j/2epxezm5bdtp8/",
       "location": "https://dsc.community.dev/j/2epxezm5bdtp8/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-01-28T20:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-01-28T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "2rub64g4dkd0ld66qpl78f1fe1@google.com",
@@ -1570,8 +1570,8 @@
       "summary": "2021 Solution Challenge Workshop: Responsible Innovation Thinking",
       "description": "Technology has significant potential to help solve challenging problems, such as those outlined in the UN\u2019s 17  Sustainable Development Goals. \n\nJoin this workshop to hear about how to practice responsible innovation from Google\u2019s AI Ethicist Dr. Johnny Soraker, and Reena Jana, Google\u2019s Head of Responsible Innovation Content & Partnerships.\n\nVirtual event URL: https://dsc.community.dev/j/7wt6p67cfe9jq/",
       "location": "https://dsc.community.dev/j/7wt6p67cfe9jq/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-02-03T21:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-02-03T23:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "6hgk3lfbckvcodalsqr1us700f@google.com",
@@ -1590,8 +1590,8 @@
       "summary": "Meet Kotlin - The future of unified development",
       "description": "Thank you for registering to Meet Kotlin - The future of unified development online event. Join the event with following link: \r https://www.youtube.com/watch?v=3cDT0npLa-o",
       "location": "Online event",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-01-16T15:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -1616,7 +1616,7 @@
       "summary": "Flight to Kolkata (6E 6457)",
       "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMSgsCcRZbcJZiMScwR6654gbq7dkdLLCU\n",
       "location": "New Delhi DEL",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": { "email": "unknownorganizer@calendar.google.com" },
       "start": { "dateTime": "2021-01-23T10:20:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-01-23T12:35:00+05:30", "timeZone": "UTC" },
@@ -1626,7 +1626,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -1651,8 +1651,8 @@
       "summary": "Panel with 2020 Solution Challenge Winners",
       "description": "Please join us as the past Solution Challenge winners discuss their overall experience with the competition. They will share tips and best practices on how to make the most out of Solution Challenge and how to ensure you are submitting a quality solution.\n\n[Important] If you haven't already done so, please register for the Solution Challenge as soon as possible at https://goo.gle/solutionchallenge\n\nVirtual event URL: https://dsc.community.dev/j/nkch53rdw9s3p/",
       "location": "https://dsc.community.dev/j/nkch53rdw9s3p/",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-02-11T18:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-02-11T19:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "15fv4kb9i9bibp29tll3ec94ms@google.com",
@@ -1671,8 +1671,8 @@
       "summary": "Blah",
       "description": "First time she confessed",
       "colorId": "8",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2019-05-16" },
       "end": { "date": "2019-05-17" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -1693,8 +1693,8 @@
       "summary": "Blah",
       "description": "First time I got a girl",
       "colorId": "8",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2019-05-26" },
       "end": { "date": "2019-05-27" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -1714,8 +1714,8 @@
       "updated": "2021-03-05T18:41:00.741Z",
       "summary": "Local Hack Day: Share",
       "description": "See event: https://organize.mlh.io/participants/events/6430-local-hack-day-share",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-28T23:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-05T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "27m4ht1hskhumifip63s770fq6@google.com",
@@ -1733,8 +1733,8 @@
       "updated": "2021-03-23T16:37:44.274Z",
       "summary": "Automate Something to Share Daily",
       "description": "See event: https://organize.mlh.io/participants/events/6736-automate-something-to-share-daily",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-05T03:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-05T05:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "7gjd0g15dq90i6evrjtlifraa8@google.com",
@@ -1752,8 +1752,8 @@
       "updated": "2021-03-28T13:53:40.596Z",
       "summary": "Set up a Project on GitHub",
       "description": "See event: https://organize.mlh.io/participants/events/6732-set-up-a-project-on-github",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-29T03:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-29T05:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "2sdhre9visp6v8v0irhncflo05@google.com",
@@ -1771,8 +1771,8 @@
       "updated": "2021-03-28T13:53:58.679Z",
       "summary": "!Light - LHD Share Edition",
       "description": "See event: https://organize.mlh.io/participants/events/6730-light-lhd-share-edition",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-29T01:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-29T02:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "1o9vd13cmkqo7ulgv31n54pe3j@google.com",
@@ -1790,8 +1790,8 @@
       "updated": "2021-03-29T08:10:21.136Z",
       "summary": "Hello, World in a New Language",
       "description": "See event: https://organize.mlh.io/participants/events/6733-hello-world-in-a-new-language",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-29T12:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-29T13:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "2018b58i38f404u5ab0ulk9opf@google.com",
@@ -1809,8 +1809,8 @@
       "updated": "2021-03-29T08:11:28.564Z",
       "summary": "Basics of Blockchain with Horizen",
       "description": "See event: https://organize.mlh.io/participants/events/6698-basics-of-blockchain-with-horizen",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-29T19:45:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-29T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "6m5dc5vkhd0okbqokiat87bl76@google.com",
@@ -1828,8 +1828,8 @@
       "updated": "2021-03-29T08:16:11.220Z",
       "summary": "SurpriseHacks",
       "description": "See event: https://organize.mlh.io/participants/events/6803-surprisehacks",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T19:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T23:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "78m9fa9j5qdlffoe6icfqo7khn@google.com",
@@ -1847,8 +1847,8 @@
       "updated": "2021-03-29T15:37:17.615Z",
       "summary": "Getting Started on the Cloud with Linode",
       "description": "See event: https://organize.mlh.io/participants/events/6782-getting-started-on-the-cloud-with-linode",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-29T22:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-29T23:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "1614eaqet47dsphnhqucgh7k9e@google.com",
@@ -1866,8 +1866,8 @@
       "updated": "2021-03-29T15:37:19.451Z",
       "summary": "Chrome Dino ",
       "description": "See event: https://organize.mlh.io/participants/events/6747-chrome-dino",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-30T01:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-30T02:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "04afstrbb5kmbnm8voakc8j3aa@google.com",
@@ -1885,8 +1885,8 @@
       "updated": "2021-03-29T15:37:21.397Z",
       "summary": "Create a Web Scraping Application that helps your Community",
       "description": "See event: https://organize.mlh.io/participants/events/6745-create-a-web-scraping-application-that-helps-your-community",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-30T03:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-30T05:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "3j84gia5qo5f0jf5i0jjs40rls@google.com",
@@ -1904,8 +1904,8 @@
       "updated": "2021-03-29T15:37:23.339Z",
       "summary": "Create a Health App (Step Counter)",
       "description": "See event: https://organize.mlh.io/participants/events/6749-create-a-health-app-step-counter",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-30T12:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-30T14:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "23gb9o1jmjbfe5mvsu64ajrod1@google.com",
@@ -1923,8 +1923,8 @@
       "updated": "2021-03-29T15:37:24.579Z",
       "summary": "Chrome Dino",
       "description": "See event: https://organize.mlh.io/participants/events/6751-chrome-dino",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-30T13:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-30T14:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "26a9n6l9arfm9fkdjo6mq4tfnn@google.com",
@@ -1942,8 +1942,8 @@
       "updated": "2021-03-29T15:37:28.342Z",
       "summary": "RTE App Builder - How to Build a Video Chat App without Coding",
       "description": "See event: https://organize.mlh.io/participants/events/6752-rte-app-builder-how-to-build-a-video-chat-app-without-coding",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-30T20:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-30T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "40iqt9n7bs03pm2l83mkh9r7a9@google.com",
@@ -1961,8 +1961,8 @@
       "updated": "2021-03-30T16:37:05.479Z",
       "summary": "Create a Financial Hack",
       "description": "See event: https://organize.mlh.io/participants/events/6775-create-a-financial-hack",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-31T00:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-31T02:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "1i8kbolvqmhotidjdc3jp560l9@google.com",
@@ -1980,8 +1980,8 @@
       "updated": "2021-03-30T16:37:06.327Z",
       "summary": "Sketchful.io",
       "description": "See event: https://organize.mlh.io/participants/events/6754-sketchful-io",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-31T02:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-31T03:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "5t3f628r059ok1jc3anmjg2tjd@google.com",
@@ -1999,8 +1999,8 @@
       "updated": "2021-03-30T16:37:07.154Z",
       "summary": "Build a Blockchain Taco Shop with Ark.io",
       "description": "See event: https://organize.mlh.io/participants/events/6699-build-a-blockchain-taco-shop-with-ark-io",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-31T05:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-31T07:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "06sn3tfaghsuq8ipasi406hsto@google.com",
@@ -2018,8 +2018,8 @@
       "updated": "2021-03-30T16:37:07.974Z",
       "summary": "Use the Twilio API",
       "description": "See event: https://organize.mlh.io/participants/events/6755-use-the-twilio-api",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-31T11:45:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-31T13:15:00+05:30", "timeZone": "UTC" },
       "iCalUID": "3r2uhrrpsadn96rb96jjuc2v3u@google.com",
@@ -2037,8 +2037,8 @@
       "updated": "2021-03-30T16:37:08.834Z",
       "summary": "Sketchful Mini Event",
       "description": "See event: https://organize.mlh.io/participants/events/6764-sketchful-mini-event",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-31T20:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-31T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "33f7fvc9rbohaojsivt658omrl@google.com",
@@ -2056,8 +2056,8 @@
       "updated": "2021-03-31T03:44:40.052Z",
       "summary": "LHD: Share - Day 4",
       "description": "See event: https://organize.mlh.io/participants/events/6786-lhd-share-day-4",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-31T21:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-01T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "78752pt5dj3hv32uhuk7qc43mf@google.com",
@@ -2075,8 +2075,8 @@
       "updated": "2021-03-31T03:46:05.669Z",
       "summary": ".com-petition",
       "description": "See event: https://organize.mlh.io/participants/events/6780-com-petition",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-31T22:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-31T22:45:00+05:30", "timeZone": "UTC" },
       "iCalUID": "0htrlkc7qovtqj02m9dsgk5oab@google.com",
@@ -2094,8 +2094,8 @@
       "updated": "2021-03-31T03:46:09.133Z",
       "summary": "Hack the Weather: Use a Weather API",
       "description": "See event: https://organize.mlh.io/participants/events/6776-hack-the-weather-use-a-weather-api",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-01T00:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-01T02:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "5s2bk9274fm9s39u3mf4hf8gjv@google.com",
@@ -2113,8 +2113,8 @@
       "updated": "2021-03-31T03:46:11.906Z",
       "summary": "Create a Kanban Board",
       "description": "See event: https://organize.mlh.io/participants/events/6757-create-a-kanban-board",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-01T02:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-01T03:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "1akjkqn9gp6t5avv4kmtio1hid@google.com",
@@ -2132,8 +2132,8 @@
       "updated": "2021-03-31T03:46:14.177Z",
       "summary": "Telestrations",
       "description": "See event: https://organize.mlh.io/participants/events/6759-telestrations",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-01T03:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-01T04:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "2qivbnjt1j8iaamunqt6n0ms47@google.com",
@@ -2151,8 +2151,8 @@
       "updated": "2021-03-31T03:46:16.447Z",
       "summary": "Create a Mobile App",
       "description": "See event: https://organize.mlh.io/participants/events/6777-create-a-mobile-app",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-01T07:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-01T09:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "7a34pn1mnufaojm1thrp9jsq4d@google.com",
@@ -2170,8 +2170,8 @@
       "updated": "2021-03-31T03:46:21.177Z",
       "summary": "Create a Brand Concept with Canva",
       "description": "See event: https://organize.mlh.io/participants/events/6778-create-a-brand-concept-with-canva",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-01T11:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-01T13:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "7c8aj29bvrcqeike8ia4486dvr@google.com",
@@ -2189,8 +2189,8 @@
       "updated": "2021-03-31T03:46:24.401Z",
       "summary": "Telestrations Mini Event",
       "description": "See event: https://organize.mlh.io/participants/events/6765-telestrations-mini-event",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-01T13:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-01T14:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "7iq18bkjiocj3eaa3nfqkqkq83@google.com",
@@ -2208,8 +2208,8 @@
       "updated": "2021-03-31T03:46:27.162Z",
       "summary": "LHD: Share - Day 5",
       "description": "See event: https://organize.mlh.io/participants/events/6787-lhd-share-day-5",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-01T21:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-02T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "29ta3mh2th2qsmqf5rpk02d0ms@google.com",
@@ -2227,8 +2227,8 @@
       "updated": "2021-03-31T03:46:40.485Z",
       "summary": "LHD: Share - Day 6",
       "description": "See event: https://organize.mlh.io/participants/events/6788-lhd-share-day-6",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T21:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-03T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "6rjcjvabe7ma7co7kd3ffnetej@google.com",
@@ -2246,8 +2246,8 @@
       "updated": "2021-03-31T03:46:48.843Z",
       "summary": "LHD: Share - Day 7",
       "description": "See event: https://organize.mlh.io/participants/events/6789-lhd-share-day-7",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-03T21:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "51v8sltj6g2ujt4h84bokdtdj5@google.com",
@@ -2265,8 +2265,8 @@
       "updated": "2021-03-31T03:46:54.524Z",
       "summary": "LHD: Share - Day 8",
       "description": "See event: https://organize.mlh.io/participants/events/6790-lhd-share-day-8",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-04T21:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-05T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "2cj6hq2r7bk369qk0dp2iha4g3@google.com",
@@ -2284,8 +2284,8 @@
       "updated": "2021-03-31T03:46:59.916Z",
       "summary": "Share a Unique Language",
       "description": "See event: https://organize.mlh.io/participants/events/6760-share-a-unique-language",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T00:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-02T02:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "08fup05hmm4mr8tpvd9t1calag@google.com",
@@ -2303,8 +2303,8 @@
       "updated": "2021-03-31T03:47:02.828Z",
       "summary": "Bob Ross MS Paint",
       "description": "See event: https://organize.mlh.io/participants/events/6758-bob-ross-ms-paint",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T02:15:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-02T03:15:00+05:30", "timeZone": "UTC" },
       "iCalUID": "7lb7171u1nb2qdjjmolnvn10qu@google.com",
@@ -2322,8 +2322,8 @@
       "updated": "2021-03-31T03:47:06.877Z",
       "summary": "Create a One Button Game",
       "description": "See event: https://organize.mlh.io/participants/events/6743-create-a-one-button-game",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T03:15:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-02T05:15:00+05:30", "timeZone": "UTC" },
       "iCalUID": "2opoe4idjelgoj8a6j0hfomr09@google.com",
@@ -2341,8 +2341,8 @@
       "updated": "2021-03-31T03:47:09.519Z",
       "summary": "Bob Ross MS Paint",
       "description": "See event: https://organize.mlh.io/participants/events/6756-bob-ross-ms-paint",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T06:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-02T07:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "3un7nt5kokvlfvm9vnvda41nia@google.com",
@@ -2360,8 +2360,8 @@
       "updated": "2021-03-31T03:47:15.053Z",
       "summary": "Create a Personal Blog",
       "description": "See event: https://organize.mlh.io/participants/events/6781-create-a-personal-blog",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T12:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-02T14:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "3r5qivk7r6rla1n8dkh1lmn7dj@google.com",
@@ -2379,8 +2379,8 @@
       "updated": "2021-03-31T03:47:29.375Z",
       "summary": "Introduction to Threat Hunting using Elastic Security",
       "description": "See event: https://organize.mlh.io/participants/events/6761-introduction-to-threat-hunting-using-elastic-security",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T17:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-02T19:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "2mcmpnnn2j0c0u33brhd2mup6o@google.com",
@@ -2398,8 +2398,8 @@
       "updated": "2021-03-31T03:48:51.455Z",
       "summary": "Slideshow Party",
       "description": "See event: https://organize.mlh.io/participants/events/6763-slideshow-party",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-02T22:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-03T00:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "5bgf3jj9gf455a224lk5osiul8@google.com",
@@ -2417,8 +2417,8 @@
       "updated": "2021-03-31T03:48:56.403Z",
       "summary": "Create an Instrument Emulator ",
       "description": "See event: https://organize.mlh.io/participants/events/6750-create-an-instrument-emulator",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-03T00:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-03T02:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "4q01or4k21fpq1onf6j960se8u@google.com",
@@ -2436,8 +2436,8 @@
       "updated": "2021-03-31T03:49:00.738Z",
       "summary": "Try Using a Front-End Framework ",
       "description": "See event: https://organize.mlh.io/participants/events/6748-try-using-a-front-end-framework",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-03T03:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-03T05:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "3rn5kice1op848jucjk5n8aqj1@google.com",
@@ -2455,8 +2455,8 @@
       "updated": "2021-03-31T03:49:03.608Z",
       "summary": "Use GPS or Maps Technology ",
       "description": "See event: https://organize.mlh.io/participants/events/6746-use-gps-or-maps-technology",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-03T10:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-03T12:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "56a5mt3junvv2sl69o6r07r5c6@google.com",
@@ -2474,8 +2474,8 @@
       "updated": "2021-03-31T03:49:05.440Z",
       "summary": "Slideshow Party",
       "description": "See event: https://organize.mlh.io/participants/events/6744-slideshow-party",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-03T12:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-03T13:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "0fu1crmqrhe69p3efhdmr1fin5@google.com",
@@ -2493,8 +2493,8 @@
       "updated": "2021-03-31T03:49:07.221Z",
       "summary": "Create a Business Plan",
       "description": "See event: https://organize.mlh.io/participants/events/6742-create-a-business-plan",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-03T22:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T00:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "7252k5r74m1c3voba3655bpp3k@google.com",
@@ -2512,8 +2512,8 @@
       "updated": "2021-03-31T03:49:08.821Z",
       "summary": "Cup Stacking",
       "description": "See event: https://organize.mlh.io/participants/events/6741-cup-stacking",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-04T00:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T02:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "4e7kaemftkbnnt5vhvs3j2m360@google.com",
@@ -2531,8 +2531,8 @@
       "updated": "2021-03-31T03:49:10.470Z",
       "summary": "Computer Vision",
       "description": "See event: https://organize.mlh.io/participants/events/6766-computer-vision",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-04T03:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T06:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "2pkejaof41vcu5e3441a2idl9u@google.com",
@@ -2550,8 +2550,8 @@
       "updated": "2021-03-31T03:49:12.058Z",
       "summary": "LHD: Share: Share Party",
       "description": "See event: https://organize.mlh.io/participants/events/6731-lhd-share-share-party",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-04T11:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T12:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "0fsdrg3hog4sgmpcqloiegnqkr@google.com",
@@ -2569,8 +2569,8 @@
       "updated": "2021-03-31T03:49:13.418Z",
       "summary": "Create a Social Media Clone ",
       "description": "See event: https://organize.mlh.io/participants/events/6739-create-a-social-media-clone",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-04T12:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T14:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "1lpjj7qi4ej1sevnmjpcia0vaq@google.com",
@@ -2588,8 +2588,8 @@
       "updated": "2021-03-31T03:49:14.841Z",
       "summary": "Cup Stacking",
       "description": "See event: https://organize.mlh.io/participants/events/6738-cup-stacking",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-04T14:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T15:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "0tu6cnbotl88122mi8r2kgelmr@google.com",
@@ -2607,8 +2607,8 @@
       "updated": "2021-03-31T03:49:16.723Z",
       "summary": "Baking with Jon",
       "description": "See event: https://organize.mlh.io/participants/events/6767-baking-with-jon",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-04T19:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-04T21:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "422qd88fa1uiprkcboh16cgi4q@google.com",
@@ -2626,8 +2626,8 @@
       "updated": "2021-03-31T03:49:18.040Z",
       "summary": "Building a MELONSquad Web App with a spice of Ninjas",
       "description": "See event: https://organize.mlh.io/participants/events/6737-building-a-melonsquad-web-app-with-a-spice-of-ninjas",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-05T00:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-05T02:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "1akmhqok9bi2668v507ttj1474@google.com",
@@ -2645,8 +2645,8 @@
       "updated": "2021-03-31T03:49:19.606Z",
       "summary": "LHD: Share: Share Party",
       "description": "See event: https://organize.mlh.io/participants/events/6734-lhd-share-share-party",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-04-05T02:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-04-05T03:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "29oaj3kjuv3mpe5ehgqfq048h8@google.com",
@@ -2664,8 +2664,8 @@
       "updated": "2021-03-31T16:53:40.960Z",
       "summary": "Introduction to Threat Hunting using Elastic Security",
       "description": "See event: https://organize.mlh.io/participants/events/6740-introduction-to-threat-hunting-using-elastic-security",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-03-29T17:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-03-29T19:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "106sqqrd2dlhe98mk75j5joljo@google.com",
@@ -2683,8 +2683,8 @@
       "updated": "2021-04-03T17:06:58.554Z",
       "summary": "INIT 2022",
       "description": "See event: https://organize.mlh.io/participants/events/6813-init-2022",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2021-06-27T23:30:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2021-07-05T12:30:00+05:30", "timeZone": "UTC" },
       "iCalUID": "3aaa9r7ig5insahcs56ujiq3aq@google.com",
@@ -2701,8 +2701,8 @@
       "created": "2020-08-26T19:01:46.000Z",
       "updated": "2021-05-16T16:45:27.757Z",
       "summary": "Abhijay's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-05-15" },
       "end": { "date": "2020-05-16" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -2726,8 +2726,8 @@
       "summary": "Google I/O '21",
       "description": "Google I/O is back May 18-20, online, and free for everyone. Join us live. \n\nI/O is live keynotes, hands-on learning with Google experts, and a first look at the latest developer products.\n\nMake sure to check back at events.google.com/io for more updates!",
       "location": "events.google.com/io",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-05-18T22:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -2750,8 +2750,8 @@
       "created": "2020-08-26T19:02:49.000Z",
       "updated": "2021-05-27T02:45:27.902Z",
       "summary": "Agamveer's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-05-23" },
       "end": { "date": "2020-05-24" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -2773,8 +2773,8 @@
       "created": "2020-08-26T19:02:07.000Z",
       "updated": "2021-05-27T02:45:41.060Z",
       "summary": "Shantanu's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-05-20" },
       "end": { "date": "2020-05-21" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -2796,8 +2796,8 @@
       "created": "2021-06-03T18:38:11.000Z",
       "updated": "2021-06-03T18:38:11.846Z",
       "summary": "Work on React",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-06-04T10:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -2820,8 +2820,8 @@
       "created": "2021-06-03T18:38:44.000Z",
       "updated": "2021-06-03T18:38:54.843Z",
       "summary": "Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-06-04T15:15:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -2844,8 +2844,8 @@
       "created": "2021-06-03T18:39:04.000Z",
       "updated": "2021-06-03T18:39:12.380Z",
       "summary": "Tea",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-06-04T17:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -2868,8 +2868,8 @@
       "created": "2021-06-03T18:38:26.000Z",
       "updated": "2021-06-03T18:39:42.148Z",
       "summary": "Genshin",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-06-04T14:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -2892,8 +2892,8 @@
       "created": "2021-06-03T18:40:21.000Z",
       "updated": "2021-06-03T18:40:21.250Z",
       "summary": "Food",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-06-04T20:15:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -2916,8 +2916,8 @@
       "created": "2021-06-03T18:39:29.000Z",
       "updated": "2021-06-03T18:40:25.412Z",
       "summary": "Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-06-04T18:15:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -2941,8 +2941,8 @@
       "updated": "2021-06-26T14:55:51.968Z",
       "summary": "Vaccination",
       "colorId": "2",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-07-03T14:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -2966,8 +2966,8 @@
       "updated": "2021-09-23T18:13:34.235Z",
       "summary": "Hacktoberfest 2021 Main Launch",
       "description": "Hacktoberfest is back and gr-eight-er than ever!\u00a0All backgrounds and skills levels are encouraged to complete the challenge.\u00a0<a href=\"https://hacktoberfest.digitalocean.com/\" target=\"_blank\">Click here</a> to register and learn more about what&#39;s new for Hacktoberfest 2021!",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2021-09-28" },
       "end": { "date": "2021-09-29" },
       "transparency": "transparent",
@@ -2988,8 +2988,8 @@
       "summary": "Learner lisence",
       "location": "RTO Noida, opposite NTPC, Block A, Sector 32, Noida, Uttar Pradesh 201301, India",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-10-01T12:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3007,7 +3007,7 @@
           "responseStatus": "declined"
         },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "organizer": true,
           "self": true,
           "responseStatus": "accepted"
@@ -3026,8 +3026,8 @@
       "updated": "2021-10-21T09:57:39.463Z",
       "summary": "DevFest India",
       "location": "https://www.airmeet.com/e/fe023000-3100-11ec-87ea-d5cae93c00a8",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2021-10-22T20:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3050,8 +3050,8 @@
       "created": "2022-03-06T09:19:43.000Z",
       "updated": "2022-03-06T09:19:55.151Z",
       "summary": "Nivedita's birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2022-09-11" },
       "end": { "date": "2022-09-12" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -3070,8 +3070,8 @@
       "created": "2022-03-06T09:20:10.000Z",
       "updated": "2022-03-06T09:20:10.535Z",
       "summary": "Tisha's birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2022-09-11" },
       "end": { "date": "2022-09-12" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -3091,8 +3091,8 @@
       "updated": "2022-03-21T05:29:47.474Z",
       "summary": "Global Hack Week: Share (2022)",
       "description": "See event: https://organize.mlh.io/participants/events/7192-global-hack-week-share-2022",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-04-03T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3115,8 +3115,8 @@
       "created": "2022-03-26T18:54:56.000Z",
       "updated": "2022-04-01T15:51:17.121Z",
       "summary": "Yash tution Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2022-03-27" },
       "end": { "date": "2022-03-28" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3135,8 +3135,8 @@
       "created": "2021-12-22T05:33:55.000Z",
       "updated": "2022-04-01T15:51:19.561Z",
       "summary": "Driving licence test",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-03-21T10:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3174,7 +3174,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         },
@@ -3212,8 +3212,8 @@
       "created": "2021-03-16T17:02:54.000Z",
       "updated": "2022-04-01T15:51:24.261Z",
       "summary": "Ananya Gupta's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2021-03-17" },
       "end": { "date": "2021-03-18" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3235,8 +3235,8 @@
       "created": "2020-08-26T18:59:36.000Z",
       "updated": "2022-04-01T15:51:26.660Z",
       "summary": "Dev Kesar's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-03-15" },
       "end": { "date": "2020-03-16" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3260,7 +3260,7 @@
       "summary": "Flight to New Delhi (AI 9644)",
       "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMwSr4BGo2XdNIk2eBFo-zUCqJ7zOUKTnQ\n",
       "location": "Jaipur JAI",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": { "email": "unknownorganizer@calendar.google.com" },
       "start": {
         "dateTime": "2022-04-12T21:10:00+05:30",
@@ -3276,7 +3276,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -3299,8 +3299,8 @@
       "created": "2022-04-13T08:14:31.000Z",
       "updated": "2022-04-13T08:14:31.366Z",
       "summary": "Aryan Gandhi's birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2022-04-12" },
       "end": { "date": "2022-04-13" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -3319,8 +3319,8 @@
       "created": "2022-04-21T13:03:06.000Z",
       "updated": "2022-04-21T13:03:06.890Z",
       "summary": "ENGAGE Challenge 1",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-04-24T10:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3343,8 +3343,8 @@
       "created": "2022-04-21T13:03:42.000Z",
       "updated": "2022-04-21T13:03:42.977Z",
       "summary": "ENGAGE Challenge 2",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-04-27T19:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3369,8 +3369,8 @@
       "summary": "Lecture 2(DSA Preparation Roadmap) DSA SP",
       "description": "Geeks for Geeks is inviting you to a scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/w/85481512709?tk=hXaMrzxVDZ6Fv1ikC9wafJny5ELDfwPe0Un8G0FbOYk.DQMAAAAT5xhfBRZTZ3BfUzEyNFJNMmZMaXk2cG45TVR3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\nMeeting ID: 854 8151 2709\nOne tap mobile\n+13017158592,,85481512709# US (Washington DC)\n+13126266799,,85481512709# US (Chicago)\n\nDial by your location\n        +1 301 715 8592 US (Washington DC)\n        +1 312 626 6799 US (Chicago)\n        +1 346 248 7799 US (Houston)\n        +1 669 900 6833 US (San Jose)\n        +1 929 205 6099 US (New York)\n        +1 253 215 8782 US (Tacoma)\nMeeting ID: 854 8151 2709\nFind your local number: https://us02web.zoom.us/u/kAAc8PH2I\n\n",
       "location": "https://us02web.zoom.us/w/85481512709?tk=hXaMrzxVDZ6Fv1ikC9wafJny5ELDfwPe0Un8G0FbOYk.DQMAAAAT5xhfBRZTZ3BfUzEyNFJNMmZMaXk2cG45TVR3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-05-01T19:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3394,8 +3394,8 @@
       "updated": "2022-05-02T13:21:49.585Z",
       "summary": "ENGAGE",
       "description": "<a href=\"https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzFkY2M0OWItYTgxZC00ZjkxLTg5MTgtNjBhNzljZGUyOTc5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%223364edc8-f7fd-4a94-8296-03fa8744fcf3%22%2c%22IsBroadcastMeeting%22%3atrue%7d&amp;btype=a&amp;role=a\">Link</a>",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-05-04T17:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3419,7 +3419,7 @@
       "updated": "2022-05-17T07:54:04.815Z",
       "summary": "Microsoft Intern Engage 2022",
       "description": "Hi Everyone,\n\nPlease let me know if this time works for everyone by accepting/declining and proposing a new time for the event.\n\nI will try to accommodate as many members as possible, If there isn't a common slot available, You can view the recording later and follow-up on the chat thread for further queries.\n\nThanks,\nShahil\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer or mobile app\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTZjZTQ2ZmYtYjNhOS00NDYxLWFjOGUtNjhhMWU4ZDgxNTgy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22796625ce-214d-41be-9752-0d6b9d8c3ee9%22%7d>\nOr join by entering a meeting ID\nMeeting ID: 254 471 461 659\nPasscode: 5SY6y3\nOr call in (audio only)\n+91 22 6241 6885,,,,558754167#<tel:+912262416885,,,,558754167#>   India, Mumbai\nPhone Conference ID: 558 754 167#\nFind a local number<https://dialin.teams.microsoft.com/8bf6e654-57eb-4b85-aeaf-36c84429b2fe?id=558754167> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=796625ce-214d-41be-9752-0d6b9d8c3ee9&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&threadId=19_meeting_OTZjZTQ2ZmYtYjNhOS00NDYxLWFjOGUtNjhhMWU4ZDgxNTgy@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": {
         "email": "shahil.pusarla@microsoft.com",
         "displayName": "Shahil Pusarla"
@@ -3460,7 +3460,7 @@
           "responseStatus": "needsAction"
         },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         },
@@ -3536,8 +3536,8 @@
       "created": "2020-08-26T19:12:18.000Z",
       "updated": "2022-05-23T10:22:33.732Z",
       "summary": "Tanisha's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-05-25" },
       "end": { "date": "2020-05-26" },
       "recurrence": ["RRULE:FREQ=YEARLY;UNTIL=20220524"],
@@ -3559,8 +3559,8 @@
       "created": "2020-08-26T19:12:18.000Z",
       "updated": "2022-05-23T10:22:33.732Z",
       "summary": "Tanisha Rathod's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2022-05-25" },
       "end": { "date": "2022-05-26" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3584,7 +3584,7 @@
       "summary": "Level 3: The National Finale | Flipkart GRiD 4.0 - Software Development Challenge_Flipkart | Ends",
       "description": "Level 3: The National Finale | Flipkart GRiD 4.0 - Software Development Challenge_Flipkart | Ends",
       "location": "https://unstop.com/hackathon/flipkart-grid-40-software-development-challenge-flipkart-grid-40-flipkart-348170",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": {
         "email": "dare2compete@outlook.com",
         "displayName": "unstop"
@@ -3601,7 +3601,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -3622,7 +3622,7 @@
       "summary": "Level 1: E-Commerce & Tech Quiz | Flipkart GRiD 4.0 - Software Development Challenge_Flipkart | Starts",
       "description": "Level 1: E-Commerce & Tech Quiz | Flipkart GRiD 4.0 - Software Development Challenge_Flipkart | Starts",
       "location": "https://unstop.com/hackathon/flipkart-grid-40-software-development-challenge-flipkart-grid-40-flipkart-348170",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": {
         "email": "dare2compete@outlook.com",
         "displayName": "unstop"
@@ -3639,7 +3639,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -3659,8 +3659,8 @@
       "updated": "2022-06-22T07:13:53.829Z",
       "summary": "Nana Nani's Aniversary",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-06-15" },
       "end": { "date": "2020-06-16" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3682,8 +3682,8 @@
       "created": "2020-08-26T19:03:50.000Z",
       "updated": "2022-06-22T07:13:56.851Z",
       "summary": "Piyush's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-06-12" },
       "end": { "date": "2020-06-13" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3705,8 +3705,8 @@
       "created": "2022-09-24T16:33:47.000Z",
       "updated": "2022-09-24T16:33:47.799Z",
       "summary": "Rishita's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2022-09-24" },
       "end": { "date": "2022-09-25" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=TU"],
@@ -3725,8 +3725,8 @@
       "created": "2020-08-26T19:08:43.000Z",
       "updated": "2022-10-23T08:37:55.143Z",
       "summary": "Rajveer's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-09-12" },
       "end": { "date": "2020-09-13" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3748,8 +3748,8 @@
       "created": "2020-08-26T19:08:20.000Z",
       "updated": "2022-10-23T08:37:59.577Z",
       "summary": "Shambhavi's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-09-07" },
       "end": { "date": "2020-09-08" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3771,8 +3771,8 @@
       "created": "2020-08-26T19:07:40.000Z",
       "updated": "2022-10-23T08:38:06.280Z",
       "summary": "Nani's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-08-08" },
       "end": { "date": "2020-08-09" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3795,8 +3795,8 @@
       "updated": "2022-10-23T08:38:14.013Z",
       "summary": "Global Hack Week: INIT (2023) Day 7",
       "description": "See event: https://organize.mlh.io/participants/events/8268-global-hack-week-init-2023-day-7",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-07-09T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3820,8 +3820,8 @@
       "updated": "2022-10-23T08:38:16.176Z",
       "summary": "Global Hack Week: INIT (2023) Day 6",
       "description": "See event: https://organize.mlh.io/participants/events/8267-global-hack-week-init-2023-day-6",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-07-08T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3845,8 +3845,8 @@
       "updated": "2022-10-23T08:38:20.720Z",
       "summary": "Global Hack Week: INIT (2023) Day 5",
       "description": "See event: https://organize.mlh.io/participants/events/8266-global-hack-week-init-2023-day-5",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-07-07T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3870,8 +3870,8 @@
       "updated": "2022-10-23T08:38:22.961Z",
       "summary": "Global Hack Week: INIT (2023) Day 4",
       "description": "See event: https://organize.mlh.io/participants/events/8265-global-hack-week-init-2023-day-4",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-07-06T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3895,8 +3895,8 @@
       "updated": "2022-10-23T08:38:25.210Z",
       "summary": "Global Hack Week: INIT (2023) Day 3",
       "description": "See event: https://organize.mlh.io/participants/events/8264-global-hack-week-init-2023-day-3",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-07-05T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3920,8 +3920,8 @@
       "updated": "2022-10-23T08:38:27.557Z",
       "summary": "Global Hack Week: INIT (2023) Day 2",
       "description": "See event: https://organize.mlh.io/participants/events/8263-global-hack-week-init-2023-day-2",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-07-04T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3944,8 +3944,8 @@
       "created": "2022-09-27T12:46:00.000Z",
       "updated": "2022-10-23T08:38:30.135Z",
       "summary": "Do some shit",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-09-28T09:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -3968,8 +3968,8 @@
       "created": "2020-08-26T19:09:20.000Z",
       "updated": "2022-10-23T08:38:32.783Z",
       "summary": "Mausi's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-09-25" },
       "end": { "date": "2020-09-26" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -3991,8 +3991,8 @@
       "created": "2020-08-26T19:09:06.000Z",
       "updated": "2022-10-23T08:38:35.158Z",
       "summary": "Madhav's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-09-25" },
       "end": { "date": "2020-09-26" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -4014,8 +4014,8 @@
       "created": "2022-09-16T11:51:32.000Z",
       "updated": "2022-10-23T08:38:37.670Z",
       "summary": "PE ? SE",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-09-16T18:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4038,8 +4038,8 @@
       "created": "2022-09-17T08:34:50.000Z",
       "updated": "2022-10-23T08:38:39.928Z",
       "summary": "Puja didi's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2022-09-17" },
       "end": { "date": "2022-09-18" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=TU"],
@@ -4061,8 +4061,8 @@
       "created": "2022-09-15T04:18:15.000Z",
       "updated": "2022-10-23T08:38:42.661Z",
       "summary": "CN Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-09-15T19:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4085,8 +4085,8 @@
       "created": "2022-09-15T04:17:59.000Z",
       "updated": "2022-10-23T08:38:44.816Z",
       "summary": "SE Project",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-09-15T14:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4109,8 +4109,8 @@
       "created": "2022-09-15T04:17:39.000Z",
       "updated": "2022-10-23T08:38:47.152Z",
       "summary": "DAA Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-09-15T10:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4148,7 +4148,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -4167,8 +4167,8 @@
       "created": "2022-08-31T10:50:53.000Z",
       "updated": "2022-10-23T08:38:51.976Z",
       "summary": "Registration Successful for Newton's coding challenge August 2022",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-31T21:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4191,8 +4191,8 @@
       "created": "2022-08-29T12:09:14.000Z",
       "updated": "2022-10-23T08:38:54.346Z",
       "summary": "Do some work",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-29T18:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4215,8 +4215,8 @@
       "created": "2022-08-25T18:29:17.000Z",
       "updated": "2022-10-23T08:38:56.772Z",
       "summary": "Solidity",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-26T18:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4239,8 +4239,8 @@
       "created": "2022-08-25T18:28:57.000Z",
       "updated": "2022-10-23T08:38:59.028Z",
       "summary": "Data Science",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-26T15:15:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4264,8 +4264,8 @@
       "updated": "2022-10-23T08:39:01.458Z",
       "summary": "Android",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-26T13:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4289,8 +4289,8 @@
       "updated": "2022-10-23T08:39:04.054Z",
       "summary": "Android",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-26T10:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4314,8 +4314,8 @@
       "updated": "2022-10-23T08:39:06.279Z",
       "summary": "Solidity",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-25T18:15:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4339,8 +4339,8 @@
       "updated": "2022-10-23T08:39:08.710Z",
       "summary": "Data Science",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-25T13:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4364,8 +4364,8 @@
       "updated": "2022-10-23T08:39:11.071Z",
       "summary": "Solidity",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-25T10:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4389,8 +4389,8 @@
       "updated": "2022-10-23T08:39:13.581Z",
       "summary": "Data Science",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-24T18:15:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4414,8 +4414,8 @@
       "updated": "2022-10-23T08:39:17.001Z",
       "summary": "Kick Start Round E 2022",
       "location": "g.co/kickstart",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "dateTime": "2022-08-21T09:00:00+05:30", "timeZone": "UTC" },
       "end": { "dateTime": "2022-08-21T12:00:00+05:30", "timeZone": "UTC" },
       "iCalUID": "0pb0ftgiol1q15lj6e8agdegho@google.com",
@@ -4433,8 +4433,8 @@
       "updated": "2022-10-23T08:39:21.822Z",
       "summary": "Microsoft Internship PPO",
       "description": "<a href=\"https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTYyZGUyYWEtYWU4OC00MGZkLWJhZjItYjIzNjBmMDEzMDcz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22c8cd8641-9874-45e2-9465-986a388fcaa9%22%7d\" id=\"ow519\" __is_owner=\"true\">https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTYyZGUyYWEtYWU4OC00MGZkLWJhZjItYjIzNjBmMDEzMDcz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22c8cd8641-9874-45e2-9465-986a388fcaa9%22%7d</a>",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-19T14:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4458,8 +4458,8 @@
       "updated": "2022-10-23T08:39:24.177Z",
       "summary": "IT3132 Software Engineering Lab",
       "description": "\n",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-18T16:30:00+05:30",
         "timeZone": "Asia/Colombo"
@@ -4483,8 +4483,8 @@
       "created": "2020-08-26T19:06:09.000Z",
       "updated": "2022-10-23T08:39:26.477Z",
       "summary": "Pranav Dubey's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-08-16" },
       "end": { "date": "2020-08-17" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -4508,8 +4508,8 @@
       "summary": "Google Supported Virtual Internship Program",
       "description": "Join from a PC, Mac, iPad, iPhone or Android device:\n    Please click this URL to join. https://zoom.us/w/91777948731?tk=P_G3ja4034XLw6nwJSvQOvDHPOGxZKHBEHj_mhVJfXk.DQMAAAAVXmRcOxZJUWNGMlFiNVFXNk4xWmtYUjVndkNRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=d3hOcFpBNXBDanpmZVBBMjJYVURVQT09&uuid=WN_-fFO-g8lRIuLJ7q7RVYwjw\n    Passcode: 430719\n\nOr One tap mobile:\n    +16699009128,,91777948731#,,,,*430719# US (San Jose)\n    +12532158782,,91777948731#,,,,*430719# US (Tacoma)\n\nOr join by phone:\n    Dial(for higher quality, dial a number based on your current location):\n        US: +1 669 900 9128  or +1 253 215 8782  or +1 301 715 8592  or +1 312 626 6799  or +1 346 248 7799  or +1 386 347 5053  or +1 564 217 2000  or +1 646 558 8656  or +1 646 931 3860  or +1 669 444 9171 \n    Webinar ID: 917 7794 8731\n    Passcode: 430719\n    International numbers available: https://zoom.us/u/asVLdax2Y\n\n",
       "location": "https://zoom.us/w/91777948731?tk=P_G3ja4034XLw6nwJSvQOvDHPOGxZKHBEHj_mhVJfXk.DQMAAAAVXmRcOxZJUWNGMlFiNVFXNk4xWmtYUjVndkNRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=d3hOcFpBNXBDanpmZVBBMjJYVURVQT09&uuid=WN_-fFO-g8lRIuLJ7q7RVYwjw",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-08-01T18:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4533,7 +4533,7 @@
       "updated": "2022-10-23T08:39:40.595Z",
       "summary": "FW: Summer Training Project Review",
       "description": "\n\n-----Original Appointment-----\nFrom: Varsha Nirbhavane (\u0935\u0930\u094d\u0937\u093e \u0928\u093f\u0930\u092d\u093e\u0935\u0928\u0947) <varsha@gail.co.in>\nSent: Wednesday, July 13, 2022 11:20 AM\nTo: Varsha Nirbhavane (\u0935\u0930\u094d\u0937\u093e \u0928\u093f\u0930\u092d\u093e\u0935\u0928\u0947)\nSubject: Summer Training Project Review\nWhen: Wednesday, July 13, 2022 11:30 AM-12:00 PM (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi.\nWhere:\n\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer or mobile app\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yjg0N2U3ZGMtMGI0Ny00ODBmLTkxYTQtNGY1YjYxM2MzOWY2%40thread.v2/0?context=%7b%22Tid%22%3a%22288eb95d-efee-416f-b87b-0470a90e53e9%22%2c%22Oid%22%3a%224e8c03a2-3ddc-4fc3-b9a6-dbb96ac70638%22%7d>\nOr join by entering a meeting ID\nMeeting ID: 421 656 341 796\nPasscode: B3i339\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=4e8c03a2-3ddc-4fc3-b9a6-dbb96ac70638&tenantId=288eb95d-efee-416f-b87b-0470a90e53e9&threadId=19_meeting_Yjg0N2U3ZGMtMGI0Ny00ODBmLTkxYTQtNGY1YjYxM2MzOWY2@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": {
         "email": "varsha@gail.co.in",
         "displayName": "Varsha Nirbhavane (\u0935\u0930\u094d\u0937\u093e \u0928\u093f\u0930\u092d\u093e\u0935\u0928\u0947)"
@@ -4550,7 +4550,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -4569,8 +4569,8 @@
       "created": "2022-02-26T06:39:45.000Z",
       "updated": "2022-10-26T12:36:12.293Z",
       "summary": "Ananay's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2021-11-02" },
       "end": { "date": "2021-11-03" },
       "recurrence": ["RRULE:FREQ=YEARLY;WKST=MO"],
@@ -4589,8 +4589,8 @@
       "created": "2022-11-05T09:44:43.000Z",
       "updated": "2022-11-05T09:44:43.109Z",
       "summary": "Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-11-04T16:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4613,8 +4613,8 @@
       "created": "2022-11-05T09:45:09.000Z",
       "updated": "2022-11-05T09:45:09.683Z",
       "summary": "Work on Project",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-11-04T18:15:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4637,8 +4637,8 @@
       "created": "2022-11-05T09:45:16.000Z",
       "updated": "2022-11-05T09:45:16.888Z",
       "summary": "Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-11-04T19:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4661,8 +4661,8 @@
       "created": "2022-11-09T05:07:09.000Z",
       "updated": "2022-11-09T05:07:09.531Z",
       "summary": "Srtudy",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-11-09T17:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4685,8 +4685,8 @@
       "created": "2022-11-09T05:07:26.000Z",
       "updated": "2022-11-09T05:07:58.780Z",
       "summary": "Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-11-09T09:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4709,8 +4709,8 @@
       "created": "2022-11-09T05:08:07.000Z",
       "updated": "2022-11-09T05:08:07.282Z",
       "summary": "Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-11-10T09:00:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4733,8 +4733,8 @@
       "created": "2022-11-09T05:08:23.000Z",
       "updated": "2022-11-09T05:08:23.543Z",
       "summary": "Study",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-11-10T17:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4759,7 +4759,7 @@
       "summary": "Black Panther: Wakanda Forever (3D) (U/A)",
       "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNE9XPV5HCv5ooLKv6J3eFnFHKJ7GvqO4E\n",
       "location": "INOX: Crystal Palm, C Scheme(SCREEN 2), Jaipur, Rajasthan, India",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": {
         "email": "unknownorganizer@calendar.google.com",
         "displayName": "Unknown Organizer"
@@ -4779,7 +4779,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -4891,8 +4891,8 @@
       "updated": "2022-12-14T09:44:32.916Z",
       "summary": "Online Quiz Round",
       "location": "https://unstop.com/competition/hero-campus-challenge-season-8-hero-motocorp-limited-488081",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2022-12-16T12:00:05+05:30",
         "timeZone": "Asia/Kolkata"
@@ -4915,8 +4915,8 @@
       "created": "2020-08-26T19:11:00.000Z",
       "updated": "2022-12-16T15:25:12.175Z",
       "summary": "Siddharth's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-12-12" },
       "end": { "date": "2020-12-13" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -4939,8 +4939,8 @@
       "updated": "2022-12-16T15:25:14.133Z",
       "summary": "Mom dad's Aniversary",
       "colorId": "11",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-12-03" },
       "end": { "date": "2020-12-04" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -4963,8 +4963,8 @@
       "updated": "2022-12-20T13:05:31.454Z",
       "summary": "Global Hack Week January 2023",
       "description": "See event: https://organize.mlh.io/participants/events/9025-global-hack-week-january-2023",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2023-01-09T22:30:00+05:30",
         "timeZone": "Asia/Kolkata"
@@ -5007,7 +5007,7 @@
           "responseStatus": "accepted"
         },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -5033,7 +5033,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -5067,7 +5067,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -5088,7 +5088,7 @@
       "summary": "Flight to New Delhi (AI 402)",
       "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DN5zvDyVZsN6cZdj3eo-9bUSDibSA4d2zw\n",
       "location": "Kolkata CCU",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": { "email": "unknownorganizer@calendar.google.com" },
       "start": {
         "dateTime": "2021-07-22T10:25:00+05:30",
@@ -5104,7 +5104,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -5169,7 +5169,7 @@
         },
         { "email": "wanipratik03@gmail.com", "responseStatus": "accepted" },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         },
@@ -5240,7 +5240,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -5279,7 +5279,7 @@
           "responseStatus": "accepted"
         },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "declined"
         }
@@ -5336,7 +5336,7 @@
           "responseStatus": "accepted"
         },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -5368,7 +5368,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -5406,7 +5406,7 @@
           "responseStatus": "accepted"
         },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -5453,7 +5453,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         },
@@ -5498,7 +5498,7 @@
       "summary": "DevFest India",
       "description": "Please join the event here: https://www.airmeet.com/e/fe023000-3100-11ec-87ea-d5cae93c00a8?code=17aa2246-1968-4327-843e-9f046033ddfb\n\nThis link is only for you. Please don't share it with others.\nAirmeet is best experienced from your desktop and on latest Chrome browser(recommended)",
       "location": "https://www.airmeet.com/e/fe023000-3100-11ec-87ea-d5cae93c00a8?code=17aa2246-1968-4327-843e-9f046033ddfb",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": {
         "email": "notifications@airmeet.com",
         "displayName": "Devfestindia's Community"
@@ -5509,7 +5509,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -5547,7 +5547,7 @@
           "responseStatus": "accepted"
         },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -5604,7 +5604,7 @@
           "responseStatus": "accepted"
         },
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -5642,8 +5642,8 @@
       "created": "2020-08-26T18:58:58.000Z",
       "updated": "2023-03-08T08:29:46.371Z",
       "summary": "Pragya's Birthday",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": { "date": "2020-03-06" },
       "end": { "date": "2020-03-07" },
       "recurrence": ["RRULE:FREQ=YEARLY"],
@@ -5680,7 +5680,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "needsAction"
         }
@@ -5700,8 +5700,8 @@
       "updated": "2023-03-28T09:44:41.302Z",
       "summary": "Quiz Round | Maruti Suzuki XCELerate",
       "location": "https://unstop.com/competitions/maruti-suzuki-xcelerate-maruti-suzuki-india-limited-600819",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2023-03-13T12:00:52+05:30",
         "timeZone": "Asia/Kolkata"
@@ -5725,8 +5725,8 @@
       "updated": "2023-04-02T04:50:39.611Z",
       "summary": "Coding Round Live: All the Best!",
       "location": "Unstop",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2023-04-01T12:00:46+05:30",
         "timeZone": "Asia/Kolkata"
@@ -5749,8 +5749,8 @@
       "created": "2023-04-06T14:06:52.000Z",
       "updated": "2023-04-21T04:20:52.298Z",
       "summary": "Code for good",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2023-04-07T12:00:00+05:30",
         "timeZone": "America/New_York"
@@ -5775,7 +5775,7 @@
       "summary": "Suzume (U/A)",
       "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNRIE9yYFWr0hMDw5HNGWimlWqh_wC4o8s\n",
       "location": "PVR: Logix, Noida(AUDI 03), Noida, Uttar Pradesh, India",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
       "organizer": {
         "email": "unknownorganizer@calendar.google.com",
         "displayName": "Unknown Organizer"
@@ -5795,7 +5795,7 @@
       "sequence": 0,
       "attendees": [
         {
-          "email": "ayushjaipuriyar21@gmail.com",
+          "email": "thakurspratap123@gmail.com",
           "self": true,
           "responseStatus": "accepted"
         }
@@ -5818,8 +5818,8 @@
       "created": "2023-05-25T09:16:29.000Z",
       "updated": "2023-05-25T09:16:29.071Z",
       "summary": "GregMat Class: GRE Reading Skills with Vince - May 25, 2023",
-      "creator": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
-      "organizer": { "email": "ayushjaipuriyar21@gmail.com", "self": true },
+      "creator": { "email": "thakurspratap123@gmail.com", "self": true },
+      "organizer": { "email": "thakurspratap123@gmail.com", "self": true },
       "start": {
         "dateTime": "2023-05-25T21:30:00+05:30",
         "timeZone": "Asia/Kolkata"
